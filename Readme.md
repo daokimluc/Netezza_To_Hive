@@ -24,8 +24,8 @@ This project is to import the database with table and partitions from MS Sql usi
 Config file will have details regarding database/host and port etc
 ```json
 {
-  "last_update_by": "Vikas Srivastava",
-  "last_update_date": "2020-08-23",
+  "last_update_by": "LucDK",
+  "last_update_date": "2020-09-11",
   "hostname": "localhost",
   "port": 3306,
   "icol": "id",
@@ -69,8 +69,8 @@ cd sqlServerToHive_pyspark
 
 ```json
 {
-  "last_update_by": "Vikas Srivastava",
-  "last_update_date": "2020-08-23",
+  "last_update_by": "LucDK",
+  "last_update_date": "2020-09-11",
   "hostname": "localhost",
   "port": 3306,
   "icol": "id",
