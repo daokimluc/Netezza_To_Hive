@@ -1,0 +1,10 @@
+{
+  "last_update_by": "Daokimluc",
+  "last_update_date": "2020-08-23",
+  "hostname": "localhost",
+  "port": 1433,
+  "icol": "brand_id",
+  "database": ["CUSTOMER"],
+  "table_list": ["sales.customers", "sales.orders","sales.order_items"],
+  "partition": "None"
+}
